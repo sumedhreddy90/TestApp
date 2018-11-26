@@ -1,0 +1,9 @@
+F:\EventPlanners\EventPlanners\EventPlanners\bin\Debug\netstandard2.0\EventPlanners.deps.json
+F:\EventPlanners\EventPlanners\EventPlanners\bin\Debug\netstandard2.0\EventPlanners.dll
+F:\EventPlanners\EventPlanners\EventPlanners\obj\Debug\netstandard2.0\EventPlanners.csprojAssemblyReference.cache
+F:\EventPlanners\EventPlanners\EventPlanners\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\EventPlanners\EventPlanners\EventPlanners\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\EventPlanners\EventPlanners\EventPlanners\obj\Debug\netstandard2.0\Views\MainPages\LoginView.xaml.g.cs
+F:\EventPlanners\EventPlanners\EventPlanners\obj\Debug\netstandard2.0\EventPlanners.csproj.CoreCompileInputs.cache
+F:\EventPlanners\EventPlanners\EventPlanners\obj\Debug\netstandard2.0\EventPlanners.AssemblyInfoInputs.cache
+F:\EventPlanners\EventPlanners\EventPlanners\obj\Debug\netstandard2.0\EventPlanners.AssemblyInfo.cs
